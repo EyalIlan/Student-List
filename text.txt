@@ -1,0 +1,12 @@
+
+
+Special Add
+
+1// add pictures from facebook api 
+
+2// let the user change the row color
+
+
+
+4// fix Search  to not be case sensitive
+
