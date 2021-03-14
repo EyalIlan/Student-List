@@ -198,7 +198,6 @@ const UpdateButtonEvent = (i) =>{
                 Table.rows[index].cells[i].innerHTML = `<input value=${value}>`  
             }   
             CancelArray.push(CancelObject)
-            console.log(CancelArray)
 
             //Adding a Confirm Button and Cancel
             Table.rows[index].cells[8].remove()
